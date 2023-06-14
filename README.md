@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the MERN stack**
 
-- 👨‍💻 My portfolio is available at [knareby.github.io](knareby.github.io)
+- 👨‍💻 My portfolio is available at **[knareby.github.io](knareby.github.io)**
 
 - 📫 How to reach me: **knareby@gmail.com | @knrby on Discord**
 
