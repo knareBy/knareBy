@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio is available at [knareby.github.io](knareby.github.io)
 
-- 📫 How to reach me **knareby@gmail.com | @knrby on Discord**
+- 📫 How to reach me: **knareby@gmail.com | @knrby on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
