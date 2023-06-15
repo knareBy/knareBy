@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the MERN stack**
 
-- 👨‍💻 My portfolio is available at **[knareby.github.io](knareby.github.io)**
+- 👨‍💻 My portfolio is available at **[knareby.github.io](https://knareby.github.io/)**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/joel-wallace-6b8028188/) | @knrby on Discord**
 
