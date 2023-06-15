@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio is available at **[knareby.github.io](knareby.github.io)**
 
-- 📫 How to reach me: **[https://www.linkedin.com/in/joel-wallace-6b8028188/](LinkedIn) | @knrby on Discord**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/joel-wallace-6b8028188/) | @knrby on Discord**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
