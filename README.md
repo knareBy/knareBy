@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm knareBy</h1>
 <h3 align="center">A biochemistry student from the UK</h3>
 
-- 🔭 I’m currently working on **a multiplayer browser game**
+- 🔭 I’m currently working on **a Steam trading bot**
 
 - 🌱 I’m currently learning **the MERN stack**
 
